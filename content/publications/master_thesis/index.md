@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-# tags = ["中華民國九十六年罪犯減刑條例","法實證研究","法律經濟分析","法官行為","法官","減刑"] 
+tags = ["中華民國九十六年罪犯減刑條例","法實證研究","法律經濟分析","法官行為","法官"] 
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -57,7 +57,7 @@ url_slides = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Custom Link", url = "http://example.org"}]
+#links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -73,4 +73,4 @@ math = true
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
