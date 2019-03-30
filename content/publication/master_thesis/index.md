@@ -45,7 +45,7 @@ tags = ["中華民國九十六年罪犯減刑條例","法實證研究","法律�
 projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "http://www.weichetsai/publication/master_thesis/MSThesis.pdf"
+url_pdf = "http://www.weichetsai.com/publication/MSThesis.pdf"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"
@@ -73,4 +73,3 @@ math = true
   focal_point = ""
 +++
 
-#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
