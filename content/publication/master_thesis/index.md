@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [“中華民國九十六年罪犯減刑條例“,“法實證研究“,“法律經濟分析“,"法官行為","法官","減刑"]
+tags = [“中華民國九十六年罪犯減刑條例“,“法實證研究“,“法律經濟分析“,"法官行為","法官","減刑"] 
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
