@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "蔡維哲"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "律師"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "永信法律事務所", url = "http://www.linshih.com.tw/lawyer.aspx?id=27" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -23,9 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "司法實證",
+  "法律經濟分析",
+  "司法政治"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -82,6 +82,15 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+嗨，我是蔡維哲。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+我是一個律師，目前在[永信法律事務所](http://www.linshih.com.tw/team.aspx)
+任職，如果您有法律問題想諮詢、委任的話，歡迎聯繫我。
+
+我也是個業餘的應用個體經濟學學徒，或者用比較潮的話說，我是個業餘的資料科學學徒。
+
+我畢業自臺大法律系與臺大經濟所。我的學術興趣很廣泛，我對廣義的「法律與社會科學」都很有興趣，包括但不限於司法政治、法律社會學、法律經濟分析；在經濟學上我的主要興趣是因果推論、應用個體計量與經濟發展。在法學，目前我關注的是因應機器學習風潮的法規管制以及實證科學在法律上因果推論與歧視的使用方式，如果您對這些領域有興趣的話，歡迎您寫 Email跟我聊聊。
+
+這裡有我的 CV、有我的研究，有一些我偶爾寫的文章。也有一些我曾經蒐集過的學習資訊，這些資源我未必完全使用過，但仍有一定的品質，相信可以減少您的搜索時間。如果您想提供任何專業或私人上的建議，我都會非常感激。您也可以透過[匿名](http://www.admonymous.com/weichetsai
+)的方式聯繫我。
+
