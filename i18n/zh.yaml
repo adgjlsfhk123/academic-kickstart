@@ -105,16 +105,16 @@
 # Contact widget
 
 - id: contact_name
-  translation: 姓名
+  translation: 名稱
 
 - id: contact_email
   translation: 電子郵件
 
 - id: contact_message
-  translation: 內容
+  translation: 訊息
 
 - id: contact_send
-  translation: 寄送
+  translation: 傳送
 
 - id: book_appointment
   translation: 預約

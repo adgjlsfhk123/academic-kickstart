@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "adgjlsfhk123@gmail.com"
-phone = "02-3322-5678#310"
+phone = "+886-(0)2-3322-5678#310"
 address = "100台北市中正區羅斯福路二段9號11樓"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove # office hours
