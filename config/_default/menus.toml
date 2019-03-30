@@ -20,7 +20,7 @@
 
 [[main]]
   name = "出版物"
-  url = "/publications"
+  url = "/publication"
   weight = 40
 
 [[main]]

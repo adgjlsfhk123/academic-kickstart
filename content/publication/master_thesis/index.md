@@ -45,7 +45,7 @@ tags = ["中華民國九十六年罪犯減刑條例","法實證研究","法律�
 projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "http://www.weichetsai/publications/master_thesis/MSThesis.pdf"
+url_pdf = "http://www.weichetsai/publication/master_thesis/MSThesis.pdf"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"
