@@ -39,7 +39,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2018
 
 [[education.courses]]
-  course = "法律系"
+  course = "法律系學士"
   institution = "國立臺灣大學"
   year = 2015
 
