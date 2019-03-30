@@ -25,11 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-10-02"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  民事、刑事、行政訴訟。
   """
 
 [[experience]]
