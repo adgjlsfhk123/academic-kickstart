@@ -16,7 +16,7 @@ role = "律師"
 organizations = [ { name = "永信法律事務所", url = "http://www.linshih.com.tw/lawyer.aspx?id=27" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "律師、業餘經濟學家、業餘資料科學家、台中沙鹿人。"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
