@@ -73,4 +73,4 @@ math = true
   focal_point = ""
 +++
 
-此文獲得107年第五屆「傑出碩博士犯罪防治研究論文獎」[碩士生特優獎](https://www.tpi.moj.gov.tw/ct.asp?xItem=535627&ctNode=36197&mp=302)。
+### 此文獲得法務部司法官學院107年第五屆「傑出碩博士犯罪防治研究論文獎」[碩士生特優獎](https://www.tpi.moj.gov.tw/ct.asp?xItem=535627&ctNode=36197&mp=302)。
