@@ -111,10 +111,10 @@
   translation: 電子郵件
 
 - id: contact_message
-  translation: 信息
+  translation: 內容
 
 - id: contact_send
-  translation: 發送
+  translation: 寄送
 
 - id: book_appointment
   translation: 預約
@@ -202,7 +202,7 @@
   translation: 查無頁面
 
 - id: 404_recommendations
-  translation: 也許你在線上？
+  translation: 找不到頁面，或許你可以試著直接與我聯絡？
 
 # Cookie consent
 
