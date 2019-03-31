@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "出版物"
 
 # View.
 #   1 = List
@@ -12,4 +12,6 @@ view = 4
 [header]
 image = ""
 caption = ""
+
+description: 蔡維哲的學術作品。
 +++
