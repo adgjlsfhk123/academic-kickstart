@@ -13,5 +13,4 @@ view = 4
 image = ""
 caption = ""
 
-description: 蔡維哲的學術作品。
 +++
