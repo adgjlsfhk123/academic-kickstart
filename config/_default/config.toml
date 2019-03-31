@@ -66,4 +66,10 @@ preserveTaxonomyNames = true
   publication_type = "publication_types"
   author = "authors"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+  
+
 
