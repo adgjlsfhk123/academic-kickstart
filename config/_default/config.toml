@@ -19,7 +19,7 @@ copyright = "Copyright &copy; `{year}` 蔡維哲"
 googleAnalytics = "UA-137345179-1"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "weichetsai-com"
 
 ############################
 ## Advanced options below ##
@@ -66,5 +66,4 @@ preserveTaxonomyNames = true
   publication_type = "publication_types"
   author = "authors"
 
-disqusShortname = "weichetsai-com"
 
