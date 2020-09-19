@@ -46,12 +46,25 @@ date_format = "Jan 2006"
   date_end = "2018-10-01"
   description = """ """
 [[experience]]
-  title = "新北市新店區知名社區公寓大廈管理委員會法律顧問"
+  title = "委員"
+  company = "台北律師公會消費者債務清理委員會"
+  company_url = ""
+  location = "台北市"
+  date_start = "2018-10-02"
+  date_end = ""
 [[experience]]
-  title = "台北律師公會消費者債務清理委員會委員"
+  title = "扶助律師"
+  company = "法律扶助基金會台北分會"
+  company_url = ""
+  location = "台北市"
+  date_start = "2019-11-01"
+  date_end = ""
 [[experience]]
-  title = "法律扶助基金會台北分會扶助律師"
-[[experience]]
-  title = "卡債受害人自救會顧問"
+  title = "顧問"
+  company = "卡債受害人自救會"
+  company_url = ""
+  location = "台北市"
+  date_start = "2018-10-02"
+  date_end = ""
 
 +++
