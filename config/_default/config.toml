@@ -26,7 +26,7 @@ disqusShortname = "weichetsai-com"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-#theme = "academic"
+theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = true
@@ -71,6 +71,5 @@ preserveTaxonomyNames = true
   filename = "sitemap.xml"
   priority = 0.5
   
-[module]
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+
+
